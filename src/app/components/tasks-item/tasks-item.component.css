@@ -1,0 +1,17 @@
+.task{
+    margin: 5px;   
+    padding: 10px 20px; 
+    cursor: pointer;
+}
+
+.task p {
+    background-color: rgba(223, 223, 223, 0.075);
+    font-size: 0.8rem;
+}
+.task h4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: green;
+    background-color: rgba(148, 148, 148, 0.075);
+}
